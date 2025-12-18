@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Govind Katare | MBA Aspirant</title>
+  <meta name="description" content="Govind Katare – MBA Aspirant preparing for CAT, NMAT, and CMAT. Focused on aptitude, GK, and Innovation & Entrepreneurship." />
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      margin: 0;
+      background: linear-gradient(135deg, #f5f7fa, #e8ecf3);
+      color: #333;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 35px;
+    }
+    header h1 {
+      margin-bottom: 8px;
+      font-size: 2.4rem;
+    }
+    header p {
+      font-size: 1.1rem;
+      color: #555;
+    }
+    .badge {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 6px 14px;
+      background: #1f3c88;
+      color: #fff;
+      border-radius: 20px;
+      font-size: 0.9rem;
+    }
+    section {
+      background: #fff;
+      padding: 25px;
+      margin-bottom: 22px;
+      border-radius: 14px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    }
+    h2 {
+      margin-top: 0;
+      margin-bottom: 12px;
+      color: #1f3c88;
+      font-size: 1.5rem;
+    }
+    ul {
+      padding-left: 20px;
+      margin: 0;
+    }
+    ul li { margin-bottom: 8px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 15px;
+    }
+    .card {
+      background: #f9fafc;
+      padding: 18px;
+      border-radius: 12px;
+      border-left: 4px solid #1f3c88;
+    }
+    .links a {
+      display: inline-block;
+      margin-right: 15px;
+      margin-top: 8px;
+      padding: 10px 16px;
+      text-decoration: none;
+      color: #1f3c88;
+      font-weight: 600;
+      border: 1px solid #1f3c88;
+      border-radius: 8px;
+      transition: all 0.25s ease;
+    }
+    .links a:hover {
+      background: #1f3c88;
+      color: #fff;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #777;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img src="profile.jpg" alt="Govind Katare" style="width:170px;height:170px;border-radius:50%;object-fit:cover;margin-bottom:18px;box-shadow:0 8px 22px rgba(0,0,0,0.22);border:4px solid #fff;" />
+      <h1>Govind Katare</h1>
+      <p>MBA Aspirant | CAT • NMAT • CMAT</p>
+      <span class="badge">Focused • Consistent • Goal-Oriented</span>
+    </header>
+
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I am an MBA aspirant with a focused approach towards management entrance examinations and business fundamentals. 
+        Having appeared for CAT, NMAT, and CMAT, I continuously work on strengthening my aptitude, decision-making skills, 
+        and awareness of business, economy, and innovation-driven thinking.
+      </p>
+    </section>
+
+    <section>
+      <h2>Exam Preparation Focus</h2>
+      <div class="grid">
+        <div class="card">
+          <strong>CAT</strong>
+          <p>Quantitative Aptitude, LRDI, and VARC with emphasis on accuracy and concept clarity.</p>
+        </div>
+        <div class="card">
+          <strong>NMAT</strong>
+          <p>Speed-based problem solving, adaptive testing strategy, and sectional balance.</p>
+        </div>
+        <div class="card">
+          <strong>CMAT</strong>
+          <p>Strong focus on GK, Current Affairs, and Innovation & Entrepreneurship.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Core Skills</h2>
+      <ul>
+        <li>Quantitative Aptitude & Logical Reasoning</li>
+        <li>Verbal Ability & Reading Comprehension</li>
+        <li>General Awareness & Current Affairs</li>
+        <li>Innovation & Entrepreneurship Concepts</li>
+        <li>Goal-oriented Exam Planning & Consistency</li>
+      </ul>
+    </section>
+
+    <section class="links">
+      <h2>Contact & Profiles</h2>
+      <p style="margin-bottom:12px;">Feel free to connect with me for academic discussions, opportunities, or networking.</p>
+      <a href="https://www.linkedin.com/in/govind-katare-b9a468247" target="_blank">LinkedIn Profile</a>
+      <a href="mailto:govindmkatare@gmail.com">Email Me</a>
+      <a href="tel:+918805000741">Call / WhatsApp</a>
+      <a href="#">Download Resume</a>
+    </section>
+
+    <footer>
+      <p>© 2025 Govind Katare | All Rights Reserved</p>
+    </footer>
+  </div>
+</body>
+</html>
